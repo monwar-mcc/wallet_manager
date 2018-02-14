@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-## Getting Started
+## Screenshots
+![alt text](https://github.com/monwar-mcc/wallet_manager/blob/master/images/one.png)
+![alt text](https://github.com/monwar-mcc/wallet_manager/blob/master/images/two.png)
+![alt text](https://github.com/monwar-mcc/wallet_manager/blob/master/images/three.png)
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
